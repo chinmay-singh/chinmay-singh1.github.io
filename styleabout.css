@@ -1,0 +1,116 @@
+h1
+{
+	font-family: 'Caesar Dressing';font-size: 50px;
+	alignment:center;
+	margin-left : 12%;
+	color: blue;
+}
+h2
+{
+	font-family: 'Caesar Dressing';font-size: 35px;
+	alignment:center;
+	margin-left : 12%;
+	color: blue;
+}
+
+h4 
+{
+	font-family: 'Caesar Dressing';font-size: 18px;
+	
+	margin-left : 12%;
+	color : black ;
+}
+body
+{
+	background : lightblue url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BYjxg9jTitpfkf6g/blue-white-background-bright-christmas-design-glamour-glow-holiday_huwhmh71el_thumbnail-full01.png") no-repeat fixed center;
+	opacity : 50;
+	/*margin-left : 10%;
+	*/
+	}
+.pic_centre
+{
+	height: 400px;
+	width: 35%;
+	alignment : top;
+	box-shadow: 50px 50px 113px ;
+    background-size: contain;
+	background-repeat: no-repeat;
+}
+header
+{
+	
+	/*margin-left : 10%;*/
+	border-top: solid 8px #019cdb ;
+}
+
+list
+{
+	/*margin-left : 10%;*/
+	display:inline;
+}		
+.nav{
+margin-top : 10px;
+margin-left : 0%;
+display : horizontal;
+}
+
+
+
+a{
+	color : #019cdb;
+	text-decoration : none;
+}
+
+a:hover{
+color : white;
+}	
+.navbar ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    width: to fit;
+    background: cyan url("http://drmollinath.com/wp-content/uploads/2013/06/1-1278141033-bg-blue-white-gradient.jpeg") no-repeat fixed center;
+    height:to fit; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+	}
+
+.navbar li
+{	
+	list-style:none;
+	color: white;
+	diplay : horizontal;
+	margin-right : 12px ;
+	border : solid; 
+	font-family : 'Caesar Dressing';font-size: 30px;
+	margin-right:0;
+}
+
+p{
+	font-family: 'Skranji', cursive;
+	font-size: 30px;
+	margin-left: 12%;
+}
+h3
+{
+font-family: 'Caesar Dressing';font-size: 35px;
+	alignment:center;
+	margin-left : 12%;
+	color: white;
+	border-bottom-color: black;
+	
+}	
+
+.interest li
+{	
+	list-style:none;
+	color: purple;
+	margin-left: 12%;
+	diplay : horizontal;
+	margin-right : 12px ;
+	border : none;
+list-style-type : square;	
+	font-family : 'Caesar Dressing';font-size: 45px;
+	margin-right:0;
+}
+	
